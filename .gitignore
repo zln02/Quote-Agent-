@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+venv/
+
+.env
+service_account.json
+
+output/
+*.pdf
+
+.DS_Store
+Thumbs.db
+
